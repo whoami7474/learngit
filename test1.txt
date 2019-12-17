@@ -15,3 +15,7 @@ eee
 reowptwqtg
 
 fdsafsdaf
+
+
+
+stash的时候远程仓库更新了df
