@@ -2,6 +2,10 @@ line1
 line2
 line3
 在远程库新添加的
+
+conflict ma ??
+con
+
 测试远程库添加的同时修改工作区，看会发生什么
 新加的。。。。
 ddd
