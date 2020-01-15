@@ -2,9 +2,9 @@ test4
 测试merge
 ddd
 master修改了，同时修改zwb1分支
+ooo
 
-
-
+ooo
 
 不同分支修改同一个文件
 d
